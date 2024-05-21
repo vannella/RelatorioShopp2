@@ -14,31 +14,29 @@ Exploramos o ramo dos aplicativos de compras devido à sua popularidade e comple
 
 Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplicativo da Shopee para fins comparativos, com base nos feedbacks públicos disponíveis.
 
-**Analise de acessibilidade:** Analisamos somente a tela inicial do aplicativo, um estudo para verificar se o site pode ser usados por todos. Identificou-se que existe uma dificuldade de usabilidade:
+# Análise de Acessibilidade
 
-#1. Barra de Progresso na Tela Inicial.
+Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Identificamos algumas dificuldades de usabilidade:
 
-#2. Inclusão de Ícones nas Categorias
+1. **Barra de Progresso na Tela Inicial:** Problemas relacionados à visibilidade e clareza da barra de progresso.
+2. **Inclusão de Ícones nas Categorias:** Necessidade de incluir ícones representativos nas categorias para facilitar a navegação.
+3. **Manutenção da Identidade Visual:** Inconsistências na identidade visual que podem confundir os usuários.
+4. **Consistência e Padrões no Shopee:** Falta de consistência e padrões uniformes na interface do Shopee, prejudicando a experiência do usuário.
 
-#3 Manutenção da Identidade Visual
+**O que poderia ser alterado ou incluído no app?** Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 
-#4 Consistência e Padrões no Shopee
+5. **Ajuda na Detecção e Correção de Erros no Shopee:** Melhorar as ferramentas e os processos para identificar e corrigir erros dentro do aplicativo.
+6. **Prevenção de Erros no Shopee:** Implementar mecanismos que previnam erros antes que eles ocorram, melhorando a experiência do usuário.
+7. **Reconhecimento em vez de Memorização no SHOPP2:** Facilitar a navegação e a interação, reduzindo a necessidade de os usuários memorizarem informações.
+8. **Implementação de um Chatbot (Baianinho):** Adicionar um chatbot interativo para auxiliar os usuários com dúvidas e problemas, proporcionando um atendimento mais rápido e eficiente.
 
-**O que poderia ser alterado ou incluído no app?** Em grupo analisamos está pergunta eesta foi a etapa brilhante no projeto:
+**Do esboço para o wireframe:** Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carregamento no papel. Em seguida, o projeto foi iniciado no Canva. Era um protótipo de visualização digital até chegarmos a um consenso sobre o que estava sendo idealizado.
 
-#5 Ajuda na Detecção e Correção de Erros no Shopee
+**O protótipo final no Figma** representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos. Após um pouco de estudo, consegui finalizar o protótipo.
 
-#6 Prevenção de Erros no Shopee
+<h2>Conclusão Pessoal</h2>
 
-#7. Reconhecimento em vez de memorização no Shopp2
-
-#8 implementação de um Chatbot(baianinho)
-
-**Do esboço para o wireframe:**
-Aquí inclui as devidas alterações e adicionei duas tela de carregamento no papel e depois foi inicializado no canva.Era um protótipo de vizualização digital até chegar em conseso do que estava sendo idealizado.
-
-**O protótipo final  no Figma:**
-Tive uma experiencia disafiadora e divertida, pois foi meu primeiro contato com o figma. Utilizei biblioteca de ícones, espaçamentos, entre outros, porém com um pouco de estudo o protótipo ficou pronto.
+Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade envolvida no UX Design e ter a oportunidade de trabalhar em um projeto em grupo. A experiência de experimentar novas ferramentas, como o Figma, foi desafiadora e gratificante. Apesar dos desafios iniciais, como lidar com interfaces complexas e aprender a usar novos recursos, o processo me permitiu desenvolver habilidades importantes e ganhar confiança na criação de protótipos digitais. Estou animado para continuar aprendendo e explorando mais sobre a experiência do usuário.
 
 
 
