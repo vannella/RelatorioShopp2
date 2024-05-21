@@ -38,7 +38,7 @@ Analisamos a tela inicial do aplicativo para verificar se o site pode ser utiliz
 
 Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade envolvida no UX Design e ter a oportunidade de trabalhar em um projeto em grupo. A experiência de experimentar novas ferramentas, como o Figma, foi desafiadora e gratificante. Apesar dos desafios iniciais, como lidar com interfaces complexas e aprender a usar novos recursos, o processo me permitiu desenvolver habilidades importantes e ganhar confiança na criação de protótipos digitais. Estou animado para continuar aprendendo e explorando mais sobre a experiência do usuário.
 
-
+***Créditos:*** *A inclusão de um chat interativo foi feita pelo integrante Thiago André. Ele contribuiu com a etapa no protótipo do chat.*
 
 
 
