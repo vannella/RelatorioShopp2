@@ -8,7 +8,7 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 <br>
 
 <h3>🙋🏻‍♀️ Minha Participação Principal no Projeto</h3>
-Fiquei encarregado da síntese das interfaces e da criação do protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX Design e usabilidade.
+Fiquei encarregada da síntese das interfaces e da criação do protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX Design e usabilidade.
 
 Exploramos o ramo dos aplicativos de compras devido à sua popularidade e complexidade.
 
@@ -16,7 +16,7 @@ Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplic
 
 <h3> 🔍 Análise de Acessibilidade </h3> 
 
-Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Utilizamos o Ergolist para avaliação autõnoma e identificamos algumas dificuldades de usabilidade:
+Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Utilizamos o Ergolist para avaliação autônoma e identificamos algumas dificuldades de usabilidade:
 
 1. **Barra de Progresso na Tela Inicial:** Problemas relacionados à visibilidade e clareza da barra de progresso.
 2. **Inclusão de Ícones nas Categorias:** Necessidade de incluir ícones representativos nas categorias para facilitar a navegação.
@@ -40,7 +40,7 @@ Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 **📱 O protótipo final no Figma** representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos. Após um pouco de estudo, consegui finalizar o protótipo.
 
 <div style="display: flex; justify-content: center;">
-    <img height="450" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
+    <img height="300" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
 </div>
 
 
