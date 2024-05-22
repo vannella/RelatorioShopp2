@@ -51,14 +51,19 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 ***Créditos:*** *A inclusão de um chat interativo foi feita pelo integrante Thiago André. Ele contribuiu com a etapa no protótipo do chat.*
 
 
-
+<br>
 
 ## Relatório de usabilidade (Geral) PDF
 
 [![Relatorio PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
+## Slides da Apresentação do App PDF
+
+[![Slides PDF](https://img.shields.io/badge/Slides-PDF-blue)](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
+
 ## Visualizar Projeto Figma
 
 [Visualizar Projeto Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=bkUag4MgXxJwofBk-1&scaling=scale-down&page-id=12%3A18)
+
 
 
