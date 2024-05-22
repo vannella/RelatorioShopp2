@@ -34,6 +34,11 @@ Analisamos a tela inicial do aplicativo para verificar se o site pode ser utiliz
 
 **O protótipo final no Figma** representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos. Após um pouco de estudo, consegui finalizar o protótipo.
 
+<div style="display: flex; justify-content: center;">
+    <img height="450" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
+</div>
+
+
 <h2>Conclusão Pessoal</h2>
 
 Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade envolvida no UX Design e ter a oportunidade de trabalhar em um projeto em grupo. A experiência de experimentar novas ferramentas, como o Figma, foi desafiadora e gratificante. Apesar dos desafios iniciais, como lidar com interfaces complexas e aprender a usar novos recursos, o processo me permitiu desenvolver habilidades importantes e ganhar confiança na criação de protótipos digitais. Estou animado para continuar aprendendo e explorando mais sobre a experiência do usuário.
