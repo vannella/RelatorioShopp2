@@ -16,7 +16,7 @@ Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplic
 
 <h3> 🔍 Análise de Acessibilidade </h3> 
 
-Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Identificamos algumas dificuldades de usabilidade:
+Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Utilizamos o Ergolist para avaliação autõnoma e identificamos algumas dificuldades de usabilidade:
 
 1. **Barra de Progresso na Tela Inicial:** Problemas relacionados à visibilidade e clareza da barra de progresso.
 2. **Inclusão de Ícones nas Categorias:** Necessidade de incluir ícones representativos nas categorias para facilitar a navegação.
