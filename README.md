@@ -14,7 +14,7 @@ Exploramos o ramo dos aplicativos de compras devido à sua popularidade e comple
 
 Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplicativo da Shopee para fins comparativos, com base nos feedbacks públicos disponíveis.
 
-# 🔍 Análise de Acessibilidade
+<h3> 🔍 Análise de Acessibilidade </h3> 
 
 Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Identificamos algumas dificuldades de usabilidade:
 
@@ -23,14 +23,19 @@ Analisamos a tela inicial do aplicativo para verificar se o site pode ser utiliz
 3. **Manutenção da Identidade Visual:** Inconsistências na identidade visual que podem confundir os usuários.
 4. **Consistência e Padrões no Shopee:** Falta de consistência e padrões uniformes na interface do Shopee, prejudicando a experiência do usuário.
 
-**🤔 O que poderia ser alterado ou incluído no app?** Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
+<h3> 🤔 O que poderia ser alterado ou incluído no app? </h3>
+
+Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 
 5. **Ajuda na Detecção e Correção de Erros no Shopee:** Melhorar as ferramentas e os processos para identificar e corrigir erros dentro do aplicativo.
 6. **Prevenção de Erros no Shopee:** Implementar mecanismos que previnam erros antes que eles ocorram, melhorando a experiência do usuário.
 7. **Reconhecimento em vez de Memorização no SHOPP2:** Facilitar a navegação e a interação, reduzindo a necessidade de os usuários memorizarem informações.
 8. **Implementação de um Chatbot (Baianinho):** Adicionar um chatbot interativo para auxiliar os usuários com dúvidas e problemas, proporcionando um atendimento mais rápido e eficiente.
+<br>
 
 **🖊 Do esboço para o wireframe:** Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carregamento no papel. Em seguida, o projeto foi iniciado no Canva. Era um protótipo de visualização digital até chegarmos a um consenso sobre o que estava sendo idealizado.
+
+<br>
 
 **📱 O protótipo final no Figma** representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos. Após um pouco de estudo, consegui finalizar o protótipo.
 
