@@ -48,11 +48,11 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 ***Créditos:*** *A inclusão de um chat interativo foi feita pelo integrante Thiago André. Ele contribuiu com a etapa no protótipo do chat.*
 
 
-# O Protótipo
 
-## Download do PDF
 
-[![Download PDF](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+## Download do Protótipo PDF
+
+[![Prototipo PDF](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
 ## Visualizar Projeto Figma
 
