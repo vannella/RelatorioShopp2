@@ -8,7 +8,7 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 <br>
 
 <h3>🙋🏻‍♀️ Minha Participação Principal no Projeto</h3>
-Fiquei encarregada da síntese das interfaces e da criação do protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX Design e usabilidade.
+Fiquei encarregada da síntese das interfaces e da criação do protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX Design e usabilidade. Abaixo um pouco dessas descobertas.
 
 Exploramos o ramo dos aplicativos de compras devido à sua popularidade e complexidade.
 
