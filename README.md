@@ -5,8 +5,6 @@
 Este relatório do miniprojeto avaliativo da disciplina de Interface Homem-Máquina, realizado por acadêmicos de Sistemas de Informação, propõe um estudo para desenvolver uma plataforma de compra e venda de produtos adaptada a cada região. 
 O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização.
 
-[![Relatorio PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
-
 <br>
 
 <h3>🙋🏻‍♀️ Minha Participação Principal no Projeto</h3>
@@ -50,17 +48,12 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 
 
 
-## Download do Protótipo PDF
+## Relatório de usabilidade (Geral) PDF
 
-[![Prototipo PDF](https://img.shields.io/badge/Download-PDF-blue)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+[![Relatorio PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
 ## Visualizar Projeto Figma
 
 [Visualizar Projeto Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=bkUag4MgXxJwofBk-1&scaling=scale-down&page-id=12%3A18)
 
-## Projeto Figma Incorporado
-
-<div style="text-align: center; margin-top: 20px;">
-    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FAZY0v64H198pZVjGCQXIWD%2FMeu-Design%3Fnode-id%3D41-13%26t%3DbkUag4MgXxJwofBk-1%26scaling%3Dscale-down%26page-id%3D12%253A18" allowfullscreen></iframe>
-</div>
 
