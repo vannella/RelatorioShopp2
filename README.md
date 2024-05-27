@@ -5,6 +5,14 @@
 Este relatório do miniprojeto avaliativo da disciplina de Interface Homem-Máquina, realizado por acadêmicos de Sistemas de Informação, propõe um estudo para desenvolver uma plataforma de compra e venda de produtos adaptada a cada região. 
 O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização.
 
+## Relatório de usabilidade (Geral) PDF
+
+[![Relatorio PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+
+<div style="display: flex; justify-content: center;">
+    <img height="300" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
+</div>
+
 <br>
 
 <h3>🙋🏻‍♀️ Minha Participação Principal no Projeto</h3>
@@ -40,10 +48,19 @@ Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 
 **📱 O protótipo final no Figma** representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos. Após um pouco de estudo, consegui finalizar o protótipo.
 
-<div style="display: flex; justify-content: center;">
-    <img height="300" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
-</div>
+<br>
 
+## Visualizar Aplicativo Figma
+
+[Visualizar app Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=bkUag4MgXxJwofBk-1&scaling=scale-down&page-id=12%3A18)
+
+<br>
+
+## Slides da Apresentação do Projeto PDF
+
+[![Slides PDF](https://img.shields.io/badge/Slides-PDF-blue)](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
+
+<br>
 
 <h2>😊 Conclusão Pessoal</h2>
 
@@ -51,20 +68,9 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 
 ***Créditos:*** *A inclusão de um chat interativo foi feita pelo integrante Thiago André. Ele contribuiu com a etapa no protótipo do chat.*
 
-
 <br>
 
-## Relatório de usabilidade (Geral) PDF
 
-[![Relatorio PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
-
-## Slides da Apresentação do App PDF
-
-[![Slides PDF](https://img.shields.io/badge/Slides-PDF-blue)](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
-
-## Visualizar Projeto Figma
-
-[Visualizar Projeto Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=bkUag4MgXxJwofBk-1&scaling=scale-down&page-id=12%3A18)
 
 
 
