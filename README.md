@@ -1,4 +1,6 @@
-<h1>Relatório de Usabilidade - SHOPP2</h1>
+<div align="center">
+   <h1>Relatório de Usabilidade - SHOPP2</h1>
+</div>
 
 <h2>Avaliação sobre a usabilidade em um sistema de compras</h2>
 
