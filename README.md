@@ -10,7 +10,7 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 [![Relatorio PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
 <div style="display: flex; justify-content: center;">
-    <img height="300" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
+    <img height="250" alt="Meu DesignShopp2.png" src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" />
 </div>
 
 <br>
