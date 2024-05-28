@@ -71,7 +71,7 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 <br>
 
 <a href="https://github.com/GiovanaMerces">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" />
 </a>
 
 
