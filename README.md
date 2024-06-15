@@ -8,11 +8,11 @@ Este relatório do miniprojeto avaliativo da disciplina de Interface Homem-Máqu
 O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização.
 
 
-<div align="center">
-   <h2>Relatório de usabilidade (Geral) PDF</h2>
-   <img src="https://img.shields.io/badge/Relatorio-PDF-purple"<a href="https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing"/><br><br>
+<h2>Relatório de usabilidade (Geral) PDF</h2>
+
+[![Slides PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+
    <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" alt="Meu DesignShopp2.png" height="300" align="center">
-</div>
 
 <br>
 
