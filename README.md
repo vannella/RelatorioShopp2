@@ -12,9 +12,13 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 
 [![Slides PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
-   <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" alt="Meu DesignShopp2.png" height="300" align="center">
-
+<div align="center">
+   <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" alt="Meu DesignShopp2.png" height="300">
+</div>
+   
 <br>
+
+---
 
 <h3>🙋🏻‍♀️ Minha Participação Principal no Projeto</h3>
 Fui encarregada de sintetizar as interfaces e criar o protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar meus conhecimentos em técnicas e conteúdos de UX Design e usabilidade. Abaixo compartilho algumas das minhas descoberta com o grupo.
@@ -63,6 +67,8 @@ Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 
 <br>
 
+---
+
 <h2>😊 Conclusão Pessoal</h2>
 
 Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade das interfaces e ter a oportunidade de trabalhar em um projeto em grupo. A experiência de experimentar novas ferramentas, como o Figma, foi desafiadora e gratificante. Apesar dos desafios iniciais, como lidar com interfaces complexas e aprender a usar novos recursos, o processo me permitiu desenvolver habilidades importantes e ganhar confiança na criação de protótipos digitais. Estou animada para continuar aprendendo e explorando mais sobre a experiência do usuário.
@@ -71,12 +77,12 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 
 <br>
 
+
+Livre para sugestões 📬 
+
 <a href="https://github.com/GiovanaMerces">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
 </a>
-
-
-
 
 
 
