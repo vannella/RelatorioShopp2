@@ -77,6 +77,14 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 
 <br>
 
+📝 Integrantes:<br>
+* Giovana Fernanda
+* Keila Jadiely
+* Kaylane Sophia
+* Miqueias Furtado
+* Thiago André
+
+<br>
 
 Livre para sugestões 📬 
 
