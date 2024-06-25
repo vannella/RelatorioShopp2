@@ -48,13 +48,13 @@ Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 8. **Implementação de um Chatbot (Baianinho):** Adicionar um chatbot interativo para auxiliar os usuários com dúvidas e problemas, proporcionando um atendimento mais rápido e eficiente.
 <br>
 
-## 🖊 Do esboço para o wireframe:**
+## 🖊 Do esboço para o wireframe:
 
 Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carregamento no papel. Em seguida, o projeto foi iniciado no Canva. Era um protótipo de visualização digital até chegarmos a um consenso sobre o que estava sendo idealizado. Para não usarmos a verdadeira tela da plataforma de referência (Shoppe), criou-se uma tela semelhante para que se tornasse a concorrente do nosso projeto. Por isso, adaptamos a plataforma da SHOPP2 com base nas análises.
 
 <br>
 
-## 📱 O protótipo final no Figma**
+## 📱 O protótipo final no Figma
 
 representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos.<br>
 
