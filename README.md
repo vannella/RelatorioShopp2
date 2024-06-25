@@ -58,7 +58,13 @@ Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carre
 
 ## 📱 O protótipo final no Figma
 
-representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos.<br>
+representou uma experiência enriquecedora e estimulante para mim, visto que marcou meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos.
+
+<br>
+
+> Observação: O protótipo no Figma foi realizado por mim após o projeto, por questões de visualização e interesse na ferramenta. Por isso, o chat Baianinho não foi adicionado.
+
+<br>
 
 |  **Plugin:** Material Design icons.          |
 |----------------------------------------------|
@@ -68,18 +74,14 @@ representou uma experiência desafiadora e divertida para mim, já que foi o meu
 
 <br>
 
-> Observação: O protótipo no Figma foi realizado por mim após o projeto, por questões de visualização e interesse na ferramenta. Por isso, o chat Baianinho não foi adicionado.
-
-
-<br>
-
 ---
 
-<h2>😊 Conclusão Pessoal</h2>
+<h2>😊 Conclusão </h2>
 
-Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade das interfaces e ter a oportunidade de trabalhar em um projeto em grupo. A experiência de experimentar novas ferramentas, como o Figma, foi desafiadora e gratificante. Apesar dos desafios iniciais, como lidar com interfaces complexas e aprender a usar novos recursos, o processo me permitiu desenvolver habilidades importantes e ganhar confiança na criação de protótipos digitais. Estou animada para continuar aprendendo e explorando mais sobre a experiência do usuário.
+O projeto foi compartilhado neste repositório com a intenção de disseminar conhecimento e conteúdo sobre design de interfaces e experiência do usuário (UX). Valorizamos o feedback e as contribuições da comunidade para ajustar e otimizar a plataforma em fases futuras. Além disso, criamos as interfaces necessárias para demonstrar nossa proposta. 📬<br>
 
 ***Créditos:*** *A inclusão de um chat interativo foi feita pelo integrante Thiago André. Ele contribuiu com a etapa no protótipo do chat.*
+
 
 <br>
 
@@ -91,8 +93,6 @@ Foi incrível fazer essa disciplina. A proposta era refletir sobre a usabilidade
 * Thiago André
 
 <br>
-
-Livre para sugestões 📬 
 
 <a href="https://github.com/GiovanaMerces">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
