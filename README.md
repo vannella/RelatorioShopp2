@@ -7,7 +7,7 @@
 Este relatório do miniprojeto avaliativo da disciplina de Interface Homem-Máquina, realizado por acadêmicos de Sistemas de Informação, propõe um estudo para desenvolver uma plataforma de compra e venda de produtos adaptada a cada região. 
 O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização.
 
-👉🏻 Veja aqui os [Slides do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+👉🏻 Veja aqui os [Relatório do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
 📱 Veja aqui os [protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
 
