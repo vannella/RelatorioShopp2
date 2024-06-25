@@ -8,9 +8,9 @@ Este relatório do projeto avaliativo da disciplina de Interface Homem-Máquina,
 
 👉🏻 Leia aqui o [Relatório do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
-📱  Veja aqui o [Protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
-
 💻 Veja aqui os [Slides PDF](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
+
+📱  Veja aqui o [Protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
 
 
 <br>
