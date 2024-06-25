@@ -4,12 +4,14 @@
 
 <h2>Avaliação sobre a usabilidade em um sistema de compras</h2>
 
-Este relatório do miniprojeto avaliativo da disciplina de Interface Homem-Máquina, realizado por acadêmicos de Sistemas de Informação, propõe um estudo para desenvolver uma plataforma de compra e venda de produtos adaptada a cada região. 
-O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização.
+Este relatório do projeto avaliativo da disciplina de Interface Homem-Máquina, realizado por acadêmicos de Sistemas de Informação, propõe um estudo para desenvolver uma plataforma de compra e venda de produtos adaptada a cada região. O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização. Além do estudo, também criamos as interfaces para a plataforma proposta.
 
-👉🏻 Veja aqui os [Relatório do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+👉🏻 Leia aqui o [Relatório do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
-📱 Veja aqui os [protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
+📱  Veja aqui o [Protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
+
+💻 Veja aqui os [Slides PDF](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
+
 
 <br>
 
@@ -68,10 +70,6 @@ representou uma experiência desafiadora e divertida para mim, já que foi o meu
 
 > Observação: O protótipo no Figma foi realizado por mim após o projeto, por questões de visualização e interesse na ferramenta. Por isso, o chat Baianinho não foi adicionado.
 
-
-## Slides da Apresentação do Projeto PDF
-
-[![Slides PDF](https://img.shields.io/badge/Slides-PDF-purple)](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
 
 <br>
 
