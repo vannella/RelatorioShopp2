@@ -7,10 +7,7 @@
 Este relatório do miniprojeto avaliativo da disciplina de Interface Homem-Máquina, realizado por acadêmicos de Sistemas de Informação, propõe um estudo para desenvolver uma plataforma de compra e venda de produtos adaptada a cada região. 
 O objetivo é oferecer uma experiência fácil, segura e rápida para consumidores e comerciantes, através de um estudo de usabilidade comparativa com a plataforma Shopee. O estudo visa identificar e mitigar barreiras de uso e inconsistências na plataforma em fases futuras de ajuste e otimização.
 
-
-<h2>Relatório de usabilidade (Geral) PDF</h2>
-
-[![Slides PDF](https://img.shields.io/badge/Relatorio-PDF-purple)](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
+👉🏻 Veja aqui os [Slides do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
 <div align="center">
    <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" alt="Meu DesignShopp2.png" height="300">
@@ -20,15 +17,15 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 
 ---
 
-<h3>🙋🏻‍♀️ Minha Participação Principal no Projeto</h3>
-Fui encarregada de sintetizar as interfaces e criar o protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar meus conhecimentos em técnicas e conteúdos de UX Design e usabilidade. Abaixo compartilho algumas das minhas descoberta com o grupo.
+### 🙋🏻‍♀️ Minha Participação Principal no Projeto
+Fui encarregada de sintetizar as interfaces e criar o protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX Design e usabilidade. Abaixo, compartilho algumas das minhas descobertas com o grupo.
 <br>
 <br>
 Exploramos o ramo dos aplicativos de compras devido à sua popularidade e complexidade.
 
 Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplicativo da Shopee para fins comparativos, com base nos feedbacks públicos disponíveis.
 
-<h3> 🔍 Análise de Acessibilidade </h3> 
+## 🔍 Análise de Acessibilidade </h3> 
 
 Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Utilizamos o Ergolist para avaliação autônoma e identificamos algumas dificuldades de usabilidade:
 
@@ -37,7 +34,7 @@ Analisamos a tela inicial do aplicativo para verificar se o site pode ser utiliz
 3. **Manutenção da Identidade Visual:** Inconsistências na identidade visual que podem confundir os usuários.
 4. **Consistência e Padrões no Shopee:** Falta de consistência e padrões uniformes na interface do Shopee, prejudicando a experiência do usuário.
 
-<h3> 🤔 O que poderia ser alterado ou incluído no app? </h3>
+## 🤔 O que poderia ser alterado ou incluído no app?
 
 Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 
@@ -47,30 +44,30 @@ Em grupo, analisamos esta pergunta e esta foi a etapa brilhante no projeto:
 8. **Implementação de um Chatbot (Baianinho):** Adicionar um chatbot interativo para auxiliar os usuários com dúvidas e problemas, proporcionando um atendimento mais rápido e eficiente.
 <br>
 
-**🖊 Do esboço para o wireframe:** Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carregamento no papel. Em seguida, o projeto foi iniciado no Canva. Era um protótipo de visualização digital até chegarmos a um consenso sobre o que estava sendo idealizado. Para não usarmos a verdadeira tela da plataforma de referência (Shoppe), criou-se uma tela semelhante para que se tornasse a concorrente do nosso projeto. Por isso, adaptamos a plataforma da SHOPP2 com base nas análises.
+## 🖊 Do esboço para o wireframe:**
+
+Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carregamento no papel. Em seguida, o projeto foi iniciado no Canva. Era um protótipo de visualização digital até chegarmos a um consenso sobre o que estava sendo idealizado. Para não usarmos a verdadeira tela da plataforma de referência (Shoppe), criou-se uma tela semelhante para que se tornasse a concorrente do nosso projeto. Por isso, adaptamos a plataforma da SHOPP2 com base nas análises.
 
 <br>
 
-**📱 O protótipo final no Figma** representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos.
+## 📱 O protótipo final no Figma**
 
-* **Plugin:** Material Design icons.
-* **Frame:** Iphone 13 mini.
+representou uma experiência desafiadora e divertida para mim, já que foi o meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos.<br>
 
-**seleção de cores:**<br>
-
-<img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" alt="Meu DesignShopp2.png" height="150">
-
-<br>
-
-## Visualizar Aplicativo Figma
-
-[Visualizar app Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=bkUag4MgXxJwofBk-1&scaling=scale-down&page-id=12%3A18)
+|  **Plugin:** Material Design icons.          |
+|----------------------------------------------|
+| **Frame:** Iphone 13 mini.                   |
+| **Seleção de cores:**                        |
+| <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png" alt="cores.fig.git.png" height="150"> |
 
 <br>
+
+> Observação: O protótipo no Figma foi realizado por mim após o projeto, por questões de visualização e interesse na ferramenta. Por isso, o chat Baianinho não foi adicionado.
+
 
 ## Slides da Apresentação do Projeto PDF
 
-[![Slides PDF](https://img.shields.io/badge/Slides-PDF-blue)](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
+[![Slides PDF](https://img.shields.io/badge/Slides-PDF-purple)](https://drive.google.com/file/d/1fNWHi06H3kdQR5VoC2XV6WpQqUBRZVJ4/view?usp=sharing)
 
 <br>
 
