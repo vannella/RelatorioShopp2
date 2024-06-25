@@ -9,8 +9,11 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 
 👉🏻 Veja aqui os [Slides do Projeto PDF](https://drive.google.com/file/d/1sjgJqpYmRvUpO2ZmtukONP6-icWHGZ5q/view?usp=sharing)
 
+📱 Veja aqui os [protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
+
+
 <div align="center">
-   <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/4707c6e1d2ef913d76a5ebe3659a37e9b14f18c4/Meu%20DesignShopp2.png" alt="Meu DesignShopp2.png" height="300">
+   <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/5d96b7cc059d8ceb070451567ecd387b8e3a317f/celular.shopp2.git.png" alt="Meu DesignShopp2.png" height="200">
 </div>
    
 <br>
