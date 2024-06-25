@@ -11,6 +11,7 @@ O objetivo é oferecer uma experiência fácil, segura e rápida para consumidor
 
 📱 Veja aqui os [protótipo no Figma](https://www.figma.com/proto/AZY0v64H198pZVjGCQXIWD/Meu-Design?node-id=41-13&t=feiCDRvHbBopPMjh-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A18)
 
+<br>
 
 <div align="center">
    <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/5d96b7cc059d8ceb070451567ecd387b8e3a317f/celular.shopp2.git.png" alt="Meu DesignShopp2.png" height="200">
