@@ -85,12 +85,14 @@ O projeto foi compartilhado neste repositório com a intenção de disseminar co
 
 <br>
 
-📝 Integrantes:<br>
-* Giovana Fernanda
-* Keila Jadiely
-* Kaylane Sophia
-* Miqueias Furtado
-* Thiago André
+| **📝 Integrantes**     | Funções                                        |
+|------------------------|------------------------------------------------|
+| **Giovana Fernanda**       | Síntese da interface / Interface / Heurística / Slides |
+| **Keila Jadiely**          | Técnicas de avaliação de usabilidade utilizadas |
+| **Kaylane Sophia**         | Avaliação / Heurística                         |
+| **Miqueias Furtado**       | Objetivo / Preâmbulo / Documentação            |
+| **Thiago André**           | Interface / Chat interativo / Documentação     |
+
 
 <br>
 
