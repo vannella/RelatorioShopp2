@@ -107,9 +107,11 @@ O projeto foi compartilhado neste repositório com a intenção de disseminar co
 
   <div align="center">
    Feito com 💜 pela Vana. <br><br>
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" aling="center"/><a href="https://github.com/GiovanaMerces" >
-    </a>
-  </div>
+   <a href="https://github.com/GiovanaMerces">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
+   </a>
+</div>
+
 
 
 
