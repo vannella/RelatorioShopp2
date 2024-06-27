@@ -66,11 +66,10 @@ representou uma experiência enriquecedora e estimulante para mim, visto que mar
 
 <br>
 
-|  **Plugin:** Material Design icons.          |
-|----------------------------------------------|
-| **Frame:** Iphone 13 mini.                   |
-| **Seleção de cores:**                        |
-| <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png" alt="cores.fig.git.png" height="150"> |
+| **Plugin:** *Material Design icons.* | **Frame:** *iPhone 13 mini.* |
+|------------------------------------|----------------------------|
+| **Seleção de cores:**              | ![cores.fig.git.png](https://github.com/GiovanaMerces/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png) |
+
 
 <br>
 
@@ -96,9 +95,11 @@ O projeto foi compartilhado neste repositório com a intenção de disseminar co
 
 <br>
 
-<a href="https://github.com/GiovanaMerces">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
-</a>
+  <div align="center">
+   Feito com 💜 pela Vana. <br><br>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" aling="center"/><a href="https://github.com/GiovanaMerces" >
+    </a>
+  </div>
 
 
 
