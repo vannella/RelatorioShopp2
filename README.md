@@ -66,16 +66,23 @@ representou uma experiência enriquecedora e estimulante para mim, visto que mar
 
 <br>
 
-| **Plugin:** *Material Design icons.* | **Frame:** *iPhone 13 mini.* |
-|------------------------------------|----------------------------|
-| **Seleção de cores:**              | ![cores.fig.git.png](https://github.com/GiovanaMerces/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png) |
+<div align="center">
+   
+| **Detalhes**                                     |
+|--------------------------------------------------|
+| **Plugin:** Material Design icons.               |
+| **Frame:** iPhone 13 mini.                       |
+| **Seleção de cores:**                            |
+| <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png" alt="cores.fig.git.png" height="150"> |
+
+</div>
 
 
 <br>
 
 ---
 
-<h2>😊 Conclusão </h2>
+<h2>👍🏻 Este Repositório </h2>
 
 O projeto foi compartilhado neste repositório com a intenção de disseminar conhecimento e conteúdo sobre design de interfaces e experiência do usuário (UX). Valorizamos o feedback e as contribuições da comunidade para ajustar e otimizar a plataforma em fases futuras. Além disso, criamos as interfaces necessárias para demonstrar nossa proposta. 📬<br>
 
@@ -84,14 +91,17 @@ O projeto foi compartilhado neste repositório com a intenção de disseminar co
 
 <br>
 
-| **📝 Integrantes**     | Funções                                        |
-|------------------------|------------------------------------------------|
-| **Giovana Fernanda**       | Síntese da interface / Interface / Heurística / Slides |
-| **Keila Jadiely**          | Técnicas de avaliação de usabilidade utilizadas |
-| **Kaylane Sophia**         | Avaliação / Heurística                         |
-| **Miqueias Furtado**       | Objetivo / Preâmbulo / Documentação            |
-| **Thiago André**           | Interface / Chat interativo / Documentação     |
-
+<div align="center">
+   
+   | **📝 Integrantes**     | Funções                                        |
+   |------------------------|------------------------------------------------|
+   | **Giovana Fernanda**       | Síntese da interface / Interface / Heurística / Slides |
+   | **Keila Jadiely**          | Técnicas de avaliação de usabilidade utilizadas |
+   | **Kaylane Sophia**         | Avaliação / Heurística                         |
+   | **Miqueias Furtado**       | Objetivo / Preâmbulo / Documentação            |
+   | **Thiago André**           | Interface / Chat interativo / Documentação     |
+   
+</div>
 
 <br>
 
