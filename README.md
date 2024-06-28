@@ -16,7 +16,7 @@ Este relatório do projeto avaliativo da disciplina de Interface Homem-Máquina,
 <br>
 
 <div align="center">
-   <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/5d96b7cc059d8ceb070451567ecd387b8e3a317f/celular.shopp2.git.png" alt="Meu DesignShopp2.png" height="200">
+   <img src="https://github.com/Vannella/RelatorioShopp2/blob/5d96b7cc059d8ceb070451567ecd387b8e3a317f/celular.shopp2.git.png" alt="Meu DesignShopp2.png" height="200">
 </div>
    
 <br>
@@ -73,7 +73,7 @@ representou uma experiência enriquecedora e estimulante para mim, visto que mar
 | **Plugin:** Material Design icons.               |
 | **Frame:** iPhone 13 mini.                       |
 | **Seleção de cores:**                            |
-| <img src="https://github.com/GiovanaMerces/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png" alt="cores.fig.git.png" height="150"> |
+| <img src="https://github.com/Vannella/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png" alt="cores.fig.git.png" height="150"> |
 
 </div>
 
@@ -107,7 +107,7 @@ O projeto foi compartilhado neste repositório com a intenção de disseminar co
 
   <div align="center">
    Feito com 💜 pela Vana. <br><br>
-   <a href="https://github.com/GiovanaMerces">
+   <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
 </div>
