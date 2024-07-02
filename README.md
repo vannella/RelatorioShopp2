@@ -66,20 +66,6 @@ representou uma experiência enriquecedora e estimulante para mim, visto que mar
 
 <br>
 
-<div align="center">
-   
-| **Detalhes**                                     |
-|--------------------------------------------------|
-| **Plugin:** Material Design icons.               |
-| **Frame:** iPhone 13 mini.                       |
-| **Seleção de cores:**                            |
-| <img src="https://github.com/Vannella/RelatorioShopp2/blob/2b200a8ddfd9be6ccbd9dbc733a6172c6f2bab4a/cores.fig.git.png" alt="cores.fig.git.png" height="150"> |
-
-</div>
-
-
-<br>
-
 ---
 
 <h2>👍🏻 Este Repositório </h2>
