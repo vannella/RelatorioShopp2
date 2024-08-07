@@ -81,10 +81,10 @@ O projeto foi compartilhado neste repositório com a intenção de disseminar co
    
    | **📝 Integrantes**     | Funções                                        |
    |------------------------|------------------------------------------------|
-   | **Giovana Fernanda**       | Síntese da interface / Interface / Heurística / Slides |
    | **Keila Jadiely**          | Técnicas de avaliação de usabilidade utilizadas |
    | **Kaylane Sophia**         | Avaliação / Heurística                         |
    | **Miqueias Furtado**       | Objetivo / Preâmbulo / Documentação            |
+   | **Giovana Fernanda**       | Síntese da interface / Interface / Heurística / Slides |
    | **Thiago André**           | Interface / Chat interativo / Documentação     |
    
 </div>
