@@ -24,16 +24,16 @@ Este relatório do projeto avaliativo da disciplina de Interface Homem-Máquina,
 ---
 
 ### 🙋🏻‍♀️ Minha Participação Principal no Projeto
-Fui encarregada de sintetizar as interfaces e criar o protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX Design e usabilidade. Abaixo, compartilho algumas das minhas descobertas com o grupo.
+Fui encarregada de sintetizar as interfaces e criar o protótipo do aplicativo de compras SHOPP2. Para isso, foi necessário estudar e aprofundar os conhecimentos em técnicas e conteúdos de UX/UI Design e usabilidade. Abaixo, compartilho algumas das minhas descobertas com o grupo.
 <br>
 <br>
-Exploramos o ramo dos aplicativos de compras devido à sua popularidade e complexidade.
+- Exploramos o ramo dos aplicativos de compras devido à sua popularidade e complexidade.
 
-Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplicativo da Shopee para fins comparativos, com base nos feedbacks públicos disponíveis.
+- Realizamos uma análise abrangente dos produtos concorrentes, escolhendo o aplicativo da Shopee para fins comparativos, com base nos feedbacks públicos disponíveis.
 
 ## 🔍 Análise de Acessibilidade </h3> 
 
-Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Utilizamos o Ergolist para avaliação autônoma e identificamos algumas dificuldades de usabilidade:
+Analisamos a tela inicial do aplicativo para verificar se o site pode ser utilizado por todos os usuários. Utilizamos o **Ergolist** para avaliação autônoma e identificamos algumas dificuldades de usabilidade:
 
 1. **Barra de Progresso na Tela Inicial:** Problemas relacionados à visibilidade e clareza da barra de progresso.
 2. **Inclusão de Ícones nas Categorias:** Necessidade de incluir ícones representativos nas categorias para facilitar a navegação.
@@ -58,11 +58,11 @@ Aqui, foram incluídas as devidas alterações e adicionadas duas telas de carre
 
 ## 📱 O protótipo final no Figma
 
-representou uma experiência enriquecedora e estimulante para mim, visto que marcou meu primeiro contato com a plataforma. Utilizei bibliotecas de ícones, espaçamentos e outros recursos.
+Para ilustrar melhor a ideia do app, criou se o protótipo onde representou uma experiência enriquecedora, Utilizei bibliotecas de ícones, espaçamentos e outros recursos.
 
 <br>
 
-> Observação: O protótipo no Figma foi realizado por mim após o projeto, por questões de visualização e interesse na ferramenta. Por isso, o chat Baianinho não foi adicionado.
+> Observação: O protótipo no Figma foi realizado pela discente após o projeto, por questões de visualização e interesse na ferramenta. Por isso, o chat Baianinho não foi adicionado.
 
 <br>
 
@@ -70,24 +70,14 @@ representou uma experiência enriquecedora e estimulante para mim, visto que mar
 
 <h2>👍🏻 Este Repositório </h2>
 
-O projeto foi compartilhado neste repositório com a intenção de disseminar conhecimento e conteúdo sobre design de interfaces e experiência do usuário (UX). Valorizamos o feedback e as contribuições da comunidade para ajustar e otimizar a plataforma em fases futuras. Além disso, criamos as interfaces necessárias para demonstrar nossa proposta. 📬<br>
+O projeto foi compartilhado neste repositório com a intenção de disseminar conhecimento e conteúdo sobre interface do usuário e experiência do usuário (UI/UX). Valorizamos o feedback e as contribuições da comunidade para ajustar e otimizar a plataforma em fases futuras. Além disso, criamos as interfaces necessárias para demonstrar nossa proposta. 📬<br>
 
 ***Créditos:*** *A inclusão de um chat interativo foi feita pelo integrante Thiago André. Ele contribuiu com a etapa no protótipo do chat.*
 
 
 <br>
 
-<div align="center">
-   
-   | **📝 Integrantes**     | Funções                                        |
-   |------------------------|------------------------------------------------|
-   | **Keila Jadiely**          | Técnicas de avaliação de usabilidade utilizadas |
-   | **Kaylane Sophia**         | Avaliação / Heurística                         |
-   | **Miqueias Furtado**       | Objetivo / Preâmbulo / Documentação            |
-   | **Giovana Fernanda**       | Síntese da interface / Interface / Heurística / Slides |
-   | **Thiago André**           | Interface / Chat interativo / Documentação     |
-   
-</div>
+
 
 <br>
 
